@@ -139,7 +139,7 @@ export const Table = <T extends StatusWise>({ headData, bodyData, isClosed }: Ta
                   key={index}
                   isMobile={isMobile}
                   isClosed={isClosed}
-                  purchases={purchases}
+                  purchases={purchase}
                   color={color}
                   title={title}
                 />
