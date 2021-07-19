@@ -1,4 +1,5 @@
 {
+  "homepage": "http://cryptonative-ch.github.io/mesa-interface",
   "name": "mesa-interface",
   "version": "0.1.0",
   "dependencies": {
