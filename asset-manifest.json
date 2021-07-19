@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mesa-interface/static/css/main.b8013155.chunk.css",
-    "main.js": "/mesa-interface/static/js/main.b0f82923.chunk.js",
-    "main.js.map": "/mesa-interface/static/js/main.b0f82923.chunk.js.map",
-    "runtime-main.js": "/mesa-interface/static/js/runtime-main.8afe263f.js",
-    "runtime-main.js.map": "/mesa-interface/static/js/runtime-main.8afe263f.js.map",
-    "static/js/2.25e6bb0d.chunk.js": "/mesa-interface/static/js/2.25e6bb0d.chunk.js",
-    "static/js/2.25e6bb0d.chunk.js.map": "/mesa-interface/static/js/2.25e6bb0d.chunk.js.map",
+    "main.js": "/mesa-interface/static/js/main.eb1f7342.chunk.js",
+    "main.js.map": "/mesa-interface/static/js/main.eb1f7342.chunk.js.map",
+    "runtime-main.js": "/mesa-interface/static/js/runtime-main.619b3b8f.js",
+    "runtime-main.js.map": "/mesa-interface/static/js/runtime-main.619b3b8f.js.map",
+    "static/js/2.335e51a8.chunk.js": "/mesa-interface/static/js/2.335e51a8.chunk.js",
+    "static/js/2.335e51a8.chunk.js.map": "/mesa-interface/static/js/2.335e51a8.chunk.js.map",
     "static/css/3.68b64559.chunk.css": "/mesa-interface/static/css/3.68b64559.chunk.css",
-    "static/js/3.618a1870.chunk.js": "/mesa-interface/static/js/3.618a1870.chunk.js",
-    "static/js/3.618a1870.chunk.js.map": "/mesa-interface/static/js/3.618a1870.chunk.js.map",
+    "static/js/3.174ede57.chunk.js": "/mesa-interface/static/js/3.174ede57.chunk.js",
+    "static/js/3.174ede57.chunk.js.map": "/mesa-interface/static/js/3.174ede57.chunk.js.map",
     "static/js/4.02ea2c3e.chunk.js": "/mesa-interface/static/js/4.02ea2c3e.chunk.js",
     "static/js/4.02ea2c3e.chunk.js.map": "/mesa-interface/static/js/4.02ea2c3e.chunk.js.map",
     "index.html": "/mesa-interface/index.html",
     "static/css/3.68b64559.chunk.css.map": "/mesa-interface/static/css/3.68b64559.chunk.css.map",
     "static/css/main.b8013155.chunk.css.map": "/mesa-interface/static/css/main.b8013155.chunk.css.map",
-    "static/js/2.25e6bb0d.chunk.js.LICENSE.txt": "/mesa-interface/static/js/2.25e6bb0d.chunk.js.LICENSE.txt",
-    "static/js/3.618a1870.chunk.js.LICENSE.txt": "/mesa-interface/static/js/3.618a1870.chunk.js.LICENSE.txt",
+    "static/js/2.335e51a8.chunk.js.LICENSE.txt": "/mesa-interface/static/js/2.335e51a8.chunk.js.LICENSE.txt",
+    "static/js/3.174ede57.chunk.js.LICENSE.txt": "/mesa-interface/static/js/3.174ede57.chunk.js.LICENSE.txt",
     "static/media/Check-Icon.b937dbe4.svg": "/mesa-interface/static/media/Check-Icon.b937dbe4.svg",
     "static/media/Close-white.3b86cd63.svg": "/mesa-interface/static/media/Close-white.3b86cd63.svg",
     "static/media/Close.a67af5ea.svg": "/mesa-interface/static/media/Close.a67af5ea.svg",
@@ -36,16 +36,18 @@
     "static/media/Twitter.54431ea2.svg": "/mesa-interface/static/media/Twitter.54431ea2.svg",
     "static/media/Up-Arrow.87bfda74.svg": "/mesa-interface/static/media/Up-Arrow.87bfda74.svg",
     "static/media/Warning-Icon.a19bcae2.svg": "/mesa-interface/static/media/Warning-Icon.a19bcae2.svg",
+    "static/media/ethereum.c729bd46.svg": "/mesa-interface/static/media/ethereum.c729bd46.svg",
     "static/media/getFetch.cjs": "/mesa-interface/static/media/getFetch.582d29c4.cjs",
     "static/media/metamask.4d940aa1.svg": "/mesa-interface/static/media/metamask.4d940aa1.svg",
     "static/media/no-token-image.d8504f66.svg": "/mesa-interface/static/media/no-token-image.d8504f66.svg",
-    "static/media/wallet-connect.13f91b45.svg": "/mesa-interface/static/media/wallet-connect.13f91b45.svg"
+    "static/media/wallet-connect.13f91b45.svg": "/mesa-interface/static/media/wallet-connect.13f91b45.svg",
+    "static/media/xdai.a80b6cc4.svg": "/mesa-interface/static/media/xdai.a80b6cc4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8afe263f.js",
+    "static/js/runtime-main.619b3b8f.js",
     "static/css/3.68b64559.chunk.css",
-    "static/js/3.618a1870.chunk.js",
+    "static/js/3.174ede57.chunk.js",
     "static/css/main.b8013155.chunk.css",
-    "static/js/main.b0f82923.chunk.js"
+    "static/js/main.eb1f7342.chunk.js"
   ]
 }
